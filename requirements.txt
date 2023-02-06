@@ -1,0 +1,6 @@
+win10toast
+customtkinter
+requests
+pyperclip
+pyautogui
+threading
