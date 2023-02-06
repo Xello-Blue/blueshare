@@ -11,6 +11,7 @@
 ```cmd
 pip install -r requirements.txt
 ```
+3. Run main.pyw
 
 ### Loading Configs
 1. Open the [dashboard](<https://xello.blue/dashboard?tab=uploads>) and download ShareX Config
