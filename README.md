@@ -1,8 +1,16 @@
 # BlueShare
-- Open source screen capture tool made for Xello.Blue hosting 
+- Open source screen capture tool made for Xello.Blue hosting
+- Made in Python 3
 
 
 ## Usage
+
+### Settings up
+1. [Download python](<https://www.python.org/downloads/>) (3.10+ recommended)
+2. Install libraries in requirements.txt by using the command below in command prompt
+```cmd
+pip install -r requirements.txt
+```
 
 ### Loading Configs
 1. Open the [dashboard](<https://xello.blue/dashboard?tab=uploads>) and download ShareX Config
